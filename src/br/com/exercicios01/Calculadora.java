@@ -1,6 +1,5 @@
 package br.com.exercicios01;
-// hora da pratica
-// 2.1 Crie uma classe Calculadora com um metodo que recebe um número como parâmetro  e retorna o dobro desse número.
+// 2 Crie uma classe Calculadora com um metodo que recebe um número como parâmetro  e retorna o dobro desse número.
 
 public class Calculadora {
 

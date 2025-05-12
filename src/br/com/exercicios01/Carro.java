@@ -1,6 +1,5 @@
 package br.com.exercicios01;
-//hora da pratica
-//Crie uma classe Carro com atributos modelo, ano, cor e métodos para exibir a ficha técnica e calcular a idade do carro.
+//4. Crie uma classe Carro com atributos modelo, ano, cor e métodos para exibir a ficha técnica e calcular a idade do carro.
 
 import java.time.Year;
 

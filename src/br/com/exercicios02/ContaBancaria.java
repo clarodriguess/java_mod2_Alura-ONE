@@ -1,5 +1,5 @@
-package br.com.exercicios02;//hora da pratica 2.1
-//Crie uma classe br.com.exercicios2.ContaBancaria com os seguintes atributos: numeroConta (privado), saldo (privado) e titular (publico).
+package br.com.exercicios02;
+//1.Crie uma classe ContaBancaria com os seguintes atributos: numeroConta (privado), saldo (privado) e titular (publico).
 // Implemente métodos getters e setters para os atributos privados.
 
 public class ContaBancaria {

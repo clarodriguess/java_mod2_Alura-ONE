@@ -1,5 +1,5 @@
-package br.com.exercicios02;//hora da pratica 2.2
-//Crie uma classe br.com.exercicios2.IdadePessoa com os atributos privados nome e idade.
+package br.com.exercicios02;
+//2. Crie uma classe IdadePessoa com os atributos privados nome e idade.
 // Utilize métodos getters e setters para acessar e modificar esses atributos.
 // Adicione um metodo verificarIdade que imprime se a pessoa é maior de idade ou não.
 
