@@ -1,3 +1,5 @@
+package br.com.exercicios01;
+
 public class Main {
     public static void main(String[] args) {
         //ex 1.1
