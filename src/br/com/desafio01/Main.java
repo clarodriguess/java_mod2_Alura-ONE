@@ -1,4 +1,4 @@
-package br.com.exercicios01;
+package br.com.desafio01;
 
 public class Main {
     public static void main(String[] args) {

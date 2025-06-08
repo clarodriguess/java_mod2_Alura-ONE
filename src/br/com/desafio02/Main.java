@@ -1,4 +1,4 @@
-package br.com.exercicios02;
+package br.com.desafio02;
 
 public class Main {
     //ex02 - IdadePessoa

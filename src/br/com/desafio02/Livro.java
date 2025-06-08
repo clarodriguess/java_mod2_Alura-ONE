@@ -1,4 +1,4 @@
-package br.com.exercicios02;
+package br.com.desafio02;
 //5. Desenvolva uma classe Livro com os atributos privados titulo e autor.
 // Utilize métodos getters e setters para acessar e modificar esses atributos.
 // Adicione um metodo exibirDetalhes que imprime o título e o autor do livro.

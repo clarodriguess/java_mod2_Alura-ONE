@@ -1,4 +1,4 @@
-package br.com.exercicios01;
+package br.com.desafio01;
 // 2 Crie uma classe Calculadora com um metodo que recebe um número como parâmetro  e retorna o dobro desse número.
 
 public class Calculadora {

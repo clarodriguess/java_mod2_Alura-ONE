@@ -1,4 +1,4 @@
-package br.com.exercicios01;
+package br.com.desafio01;
 //3 Crie uma classe Musica com atributos titulo, artista, anoLancamento, avaliacao e numAvaliacoes,
 // e métodos para exibir a ficha técnica, avaliar a música e calcular a média de avaliações.
 

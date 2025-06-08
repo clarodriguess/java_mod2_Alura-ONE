@@ -1,4 +1,4 @@
-package br.com.exercicios02;
+package br.com.desafio02;
 //1.Crie uma classe ContaBancaria com os seguintes atributos: numeroConta (privado), saldo (privado) e titular (publico).
 // Implemente métodos getters e setters para os atributos privados.
 

@@ -1,4 +1,4 @@
-package br.com.exercicios02;
+package br.com.desafio02;
 //4.Desenvolva uma classe Aluno com os atributos privados nome e notas.
 // Utilize métodos getters e setters para acessar e modificar esses atributos.
 // Adicione um metodo calcularMedia que retorna a média das notas do aluno.
